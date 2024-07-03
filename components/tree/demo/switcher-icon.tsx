@@ -5,7 +5,7 @@ import type { TreeDataNode, TreeProps } from 'antd';
 
 const treeData: TreeDataNode[] = [
   {
-    title: 'parent 1',
+    title: 'Ромашкинское',
     key: '0-0',
     children: [
       {
